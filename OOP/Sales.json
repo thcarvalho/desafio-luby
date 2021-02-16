@@ -1,0 +1,40 @@
+[
+  {
+    "Id": "25351a41-67cb-4d3a-b840-50d68efe6bd0",
+    "Products": [
+      {
+        "Id": 0,
+        "Name": null,
+        "Value": 2.99,
+        "Quantity": 1
+      },
+      {
+        "Id": 1,
+        "Name": null,
+        "Value": 5.99,
+        "Quantity": 1
+      }
+    ],
+    "Total": 29.94,
+    "Payback": 10.05
+  },
+  {
+    "Id": "b945cada-067f-4330-9137-0d5b3d7b3cc9",
+    "Products": [
+      {
+        "Id": 0,
+        "Name": "Produto 1",
+        "Value": 2.99,
+        "Quantity": 1
+      },
+      {
+        "Id": 3,
+        "Name": "Produto 4",
+        "Value": 3.99,
+        "Quantity": 1
+      }
+    ],
+    "Total": 6.98,
+    "Payback": 0
+  }
+]
